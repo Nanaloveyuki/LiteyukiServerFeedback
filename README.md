@@ -8,7 +8,8 @@
 向本项目仓库提交`Issues`并提供以下说明
 
 > 你也可拉取PR至本仓库提供更为完善的请求, 支持文件格式
-> `txt`, `markdown(md)`, `html(以及其css/js支持)`, `json`, `yaml`, `toml`, `py`, `doc(x)`, `xls(x)`
+> `txt` `markdown(md)` `html(以及其css/js支持)` `json` `yaml` `toml` `py` `doc(x)` `xls(x)`
+
 > 在反馈PR时需要使用Gitmoji.dev的表情以同步Liteyuki仓库标准
 
 ```markdown
